@@ -18,6 +18,10 @@
     "numreplies": "{{numreplies}} respuestas",
     "posttoforum": "Enviar al foro",
     "re": "Re:",
+    "refreshdiscussions": "Refrescar discusiones",
+    "refreshposts": "Refrescar publicaciones de discusiones",
     "reply": "Responder (réplica)",
+    "sortnewestfirst": "Mostrar primeramente los más nuevos",
+    "sortoldestfirst": "Mostrar primeramente los más antiguos",
     "subject": "Asunto"
 }

@@ -1646,7 +1646,8 @@ angular.module('mm.core')
                 $translate.instant('mm.core.serverconnection'),
                 $translate.instant('mm.core.errorinvalidresponse'),
                 $translate.instant('mm.core.sitemaintenance'),
-                $translate.instant('mm.core.upgraderunning')
+                $translate.instant('mm.core.upgraderunning'),
+                $translate.instant('mm.core.nopasswordchangeforced')
             ];
             return error && localErrors.indexOf(error) == -1;
         };
